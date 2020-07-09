@@ -11,7 +11,6 @@
         <lifecycle-example v-if="true"/>
     </div>
 </template>
-
 <script>
     const rspCoords = {
         바위 : '0',
