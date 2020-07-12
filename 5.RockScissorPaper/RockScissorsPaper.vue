@@ -22,7 +22,7 @@
         가위 : 1,
         바위 : 0,
         보 : -1,
-    }
+    };
 
     const computerChoice = (imgCoord) => {
         return Object.entries(rspCoords).find(function (v) {
